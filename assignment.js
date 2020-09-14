@@ -71,7 +71,7 @@ const flutterCourse = new TheoreticalCourse(
 );
 
 flutterCourse.price = 5000;
-flutterCourse.#price = 100;
+// flutterCourse.#price = 100;
 
 flutterCourse.printSummary();
 flutterCourse.publish();
